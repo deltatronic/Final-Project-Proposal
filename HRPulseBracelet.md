@@ -1,13 +1,13 @@
 Summary
 
-For my final project, I would like to explore with a heart rate pulse sensor.  Originally I had another project I wanted to do but I change my first project dealing with processing, piano keys and the xbox kinects. So for my final project, I am going to create a bracelet with a pulse sensor. I would like to use this bracelet when I’m running or heart rate is high. When bpm is high the LED will turn on.  Also with the bracelet I would like to create a visual pulse rate on processing as well. 
+//For my final project, I would like to explore with a heart rate pulse sensor.  Originally I had another project I wanted to do but I change my first project dealing with processing, piano keys and the xbox kinects. So for my final project, I am going to create a bracelet with a pulse sensor. I would like to use this bracelet when I’m running or heart rate is high. When bpm is high the LED will turn on.  Also with the bracelet I would like to create a visual pulse rate on processing as well. 
 
-Component Parts 
+//Component Parts 
 
-Autodesk Fusion 360 (For 3D printing the bracelet)
-Neo Pixel LED lights
-Heart Pulse sensors 
-Processing
+//Autodesk Fusion 360 (For 3D printing the bracelet)
+//Neo Pixel LED lights
+//Heart Pulse sensors 
+//Processing
 
 Challenges 
 
@@ -18,10 +18,10 @@ I feel like this whole project will be a big challenge because I have never used
 3.	Coding a visual pulse rate using processing.
 4.	Probably spending most of my time coding. (Sensor & Processing)
 
-Timeline
-Week 1 –Research on the components and buy the parts as soon as possible. 
-Week 2 – 3d model the bracelet, play around with the pulse sensor 
-Week 3 – pulse sensor/ 3d modeling/ coding
-Week 4 – coding
-Week 5 – coding 
+//Timeline
+//Week 1 –Research on the components and buy the parts as soon as possible. 
+//Week 2 – 3d model the bracelet, play around with the pulse sensor 
+//Week 3 – pulse sensor/ 3d modeling/ coding
+//Week 4 – coding
+//Week 5 – coding 
  
