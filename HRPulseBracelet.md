@@ -19,9 +19,14 @@ I feel like this whole project will be a big challenge because I have never used
 4.	Probably spending most of my time coding. (Sensor & Processing)
 
 Timeline
+
 Week 1 –Research on the components and buy the parts as soon as possible. 
+
 Week 2 – 3d model the bracelet, play around with the pulse sensor 
+
 Week 3 – pulse sensor/ 3d modeling/ coding
+
 Week 4 – coding
+
 Week 5 – coding 
  
