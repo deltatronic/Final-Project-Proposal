@@ -1,4 +1,5 @@
 Components needs:
+
 1. HR pulse sensor at adafruit.com (Already bought it)
 
 2. LED neopixel light http://www.adafruit.com/products/1138 (coming in soon) 
