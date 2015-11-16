@@ -16,7 +16,7 @@ I feel like this whole project will be a big challenge because I have never used
 1.	Learning how to 3D model/print the bracelet.
 2.	Understand how to use processing and arduino together to have a visual effect. (understanding how to code everything.)
 3.	Coding a visual pulse rate using processing.
-4.	Probably spending most of my time with trail and error test. (Sensor)
+4.	Probably spending most of my time coding. (Sensor & Processing)
 
 Timeline
 Week 1 –Research on the components and buy the parts as soon as possible. 
