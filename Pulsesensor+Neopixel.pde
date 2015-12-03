@@ -18,7 +18,7 @@ int QScounter;
 boolean human;
 
 void setup(){
-  Serial.begin(9600);
+  Serial.begin(115200);
   pinMode(pulsePin,INPUT);
   pinMode(neoRing,OUTPUT);
   strip.begin();
