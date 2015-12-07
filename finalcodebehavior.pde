@@ -63,31 +63,32 @@ void loop() {
       theaterChaseRainbow(0);
       for (int i = 0; i < NUMPIXELS; i++) {
         // pixels.Color takes RGB values, from 0,0,0 up to 255,255,255
-        pixels.setPixelColor(i, pixels.Color(0, 0, 255)); // Moderately bright green color.
+        pixels.setPixelColor(i, pixels.Color(0,0,255));
+        
       }
 
 
 
     } else if (BPM <= 120) {
-      //yellow
+      //green
       theaterChaseRainbow(0);
       for (int i = 0; i < NUMPIXELS; i++) {
         // pixels.Color takes RGB values, from 0,0,0 up to 255,255,255
-        pixels.setPixelColor(i, pixels.Color(255, 255, 0)); // Moderately bright green color.
+        pixels.setPixelColor(i, pixels.Color(0, 255, 0));
       }
 
     } else if (BPM <= 145) {
-      //white
+      //yellow
       for (int i = 0; i < NUMPIXELS; i++) {
         // pixels.Color takes RGB values, from 0,0,0 up to 255,255,255
-        pixels.setPixelColor(i, pixels.Color(0, 0, 0)); // Moderately bright green color.
+        pixels.setPixelColor(i, pixels.Color(255, 255, 0)); // Moderately bright green color.
       }
 
 
 
     } else {
       // rainbow
-      theaterChaseRainbow(5000);
+      theaterChaseRainbow(500);
       for (int i = 0; i < NUMPIXELS; i++) {
         // pixels.Color takes RGB values, from 0,0,0 up to 255,255,255
         pixels.setPixelColor(i, pixels.Color(255,0,0)); // Moderately bright green color.
@@ -153,4 +154,3 @@ uint32_t Wheel(byte WheelPos) {
   }
   WheelPos -= 170;
   return pixels.Color(WheelPos * 3, 255 - WheelPos * 3, 0);
-}
