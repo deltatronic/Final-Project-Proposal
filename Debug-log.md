@@ -32,5 +32,6 @@ Check adafruit for tutorial and coding.
 Trinket USb was broken so need to find another way to load the code up with an adapter piece that converts it to the uno.
 Code Upload and working
 
+Code and everything is working, but the sensor for the heart pulse is not always right. 
 
 
