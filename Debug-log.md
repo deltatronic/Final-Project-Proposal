@@ -53,5 +53,7 @@ Trinket USb was broken so need to find another way to load the code up with an a
 
 Code Upload and working
 
+Sensor is not always right. In the future research for a better sensor for heart pulse. 
+
 
 
