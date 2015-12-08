@@ -13,10 +13,6 @@ Research where to print out 3d prints because CCA is packed with people printing
 3dhubs.com
 3d print turned out good but need to make the walls thinner so LED lights can fit. 
 
-How do I convert from uno to the trinket?
-How do I do the wiring? 
-Check adafruit for tutorial and coding. 
-
 Battery pack:
 Voltage, what size to get?
 USB Battery Pack - 2200 mAh Capacity - 5V 1A Output @ adafruit
@@ -29,5 +25,12 @@ Neopixel light
 How many neopixel light will I be using?
 Should I use less so I can use a smaller battery?
 Find how to code the behavior of my flow diagram.
+
+How do I convert from uno to the trinket?
+How do I do the wiring? 
+Check adafruit for tutorial and coding. 
+Trinket USb was broken so need to find another way to load the code up with an adapter piece that converts it to the uno.
+Code Upload and working
+
 
 
