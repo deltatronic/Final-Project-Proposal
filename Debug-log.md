@@ -12,13 +12,11 @@ Autodesk Fusion 360
 
 Watch youtube videos for tutorial 
 
-how do I convert the file to STL so I can print it. 
+how do I convert the file to STL so I can print it. (Had to download a program called meshmixer to convert files to STL)
 
-Research where to print out 3d prints because CCA is packed with people printing
+Research where to print out 3d prints because CCA is packed with people printing (Went on 3dhubs.com for 3d prints)
 
-3dhubs.com
-
-3d print turned out good but need to make the walls thinner so LED lights can fit. 
+First print went wrong. I didn't shell out the model. Second print was too small to fit the neopixel. Final and third print went better because I made the bracelet wider for the lights.
 
 
 <b>Battery pack:</b>
@@ -27,32 +25,36 @@ Voltage, what size to get?
 
 USB Battery Pack - 2200 mAh Capacity - 5V 1A Output @ adafruit
 
+USB battery Pack did not come in time so I had to buy another battery pack from amazon instead. 
+
 
 <b>Sensor + lighting</b>
 
-Research out how they work together
+Wasn't sure how to put the code together for sensor and lighting
 
-How does the code work?
-
+Figured out I need to use serial to put them together.
 
 <b>Neopixel light</b>
 
 How many neopixel light will I be using?
 
-Should I use less so I can use a smaller battery?
+Should I use less so I can use a smaller battery? (Decided to use less neopixel so I dont have to use a 5v adapter.Instead use usb battery.)
 
-Find how to code the behavior of my flow diagram.
+<b>Find how to code the behavior.</b>
+
+Created a flow chart to make it easier for me to write the code down.
+
+Didn't understand how to make multiple steps to lighting. (Found out that there was something called cases where I can change the behavior depend on the situation.) 
 
 <b>Trinket/arduino</b>
-How do I convert from uno to the trinket?
 
-How do I do the wiring? 
+How do I do the wiring? (Read the schematic to figure out how to wire. Had some trouble with wiring because the pin in the wrong area.)
 
-Check adafruit for tutorial and coding. 
+Loading code to Uno was good but when it came to the trinket it would not load. 
 
-Trinket USb was broken so need to find another way to load the code up with an adapter piece that converts it to the uno.
-
-Code Upload and working
+Found out the Trinket USB was broken so need to find another way to load the code up so I used adapter piece to converts it to the uno.
+ 
+Code Upload and working.
 
 
 
